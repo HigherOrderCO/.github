@@ -6,14 +6,20 @@
  whose goal is to solve the  [Zooko's triangle trilemma](https://en.wikipedia.org/wiki/Zooko%27s_triangle).
 
 How is it achieved: 
-- Decentralized → [Kindelia](https://github.com/Kindelia/Kindelia)-core: Blockchain node.
+- Decentralized → [Kindelia-core](https://github.com/Kindelia/Kindelia): Blockchain node.
 - Cheap and fast  → [HVM](https://github.com/kindelia/hvm): Parallel functional compiler.
 - Secure  → [Kind](https://github.com/Kindelia/Kind) and [Kind2](https://github.com/Kindelia/Kind2): Formal verification programming languages.
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
-
+Decentralized →   | [Kindelia-core](https://github.com/Kindelia/Kindelia): | Blockchain node.
+Cheap and fast  → | [HVM](https://github.com/kindelia/hvm):                | Parallel functional compiler.
+Secure  →         | [Kind](https://github.com/Kindelia/Kind) and [Kind2](https://github.com/Kindelia/Kind2):  | Formal verification programming languages.
 
 
 
