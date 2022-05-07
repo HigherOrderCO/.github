@@ -17,9 +17,11 @@ How is it achieved:
 | Content Cell  | Content Cell  |
 
 
-Decentralized →   | [Kindelia-core](https://github.com/Kindelia/Kindelia): | Blockchain node.
-Cheap and fast  → | [HVM](https://github.com/kindelia/hvm):                | Parallel functional compiler.
-Secure  →         | [Kind](https://github.com/Kindelia/Kind) and [Kind2](https://github.com/Kindelia/Kind2):  | Formal verification programming languages.
+|                 |                                                        |                                |
+| --------------- | ------------------------------------------------------ | ------------------------------ |
+Decentralized →   | [Kindelia-core](https://github.com/Kindelia/Kindelia): | Blockchain node.               |
+Cheap and fast  → | [HVM](https://github.com/kindelia/hvm):                | Parallel functional compiler.  |
+Secure  →         | [Kind](https://github.com/Kindelia/Kind) and [Kind2](https://github.com/Kindelia/Kind2):  | Formal verification programming languages. |
 
 
 
