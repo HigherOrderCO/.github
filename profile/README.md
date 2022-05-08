@@ -3,9 +3,8 @@
 
 [Kindelia](http://kindelia.org/)
  is a global virtual machine powered by blockchain technology
- whose goal is to solve the  [Zooko's triangle trilemma](https://en.wikipedia.org/wiki/Zooko%27s_triangle).
-
-How is it achieved: 
-- Decentralized → [Kindelia-core](https://github.com/Kindelia/Kindelia): Blockchain node.
-- Cheap and fast  → [HVM](https://github.com/kindelia/hvm): Parallel functional compiler.
-- Secure  → [Kind](https://github.com/Kindelia/Kind) and [Kind2](https://github.com/Kindelia/Kind2): Formal verification programming languages.
+ whose goal is to solve the  [Zooko's triangle trilemma](https://en.wikipedia.org/wiki/Zooko%27s_triangle): 
+ 
+- Decentralized → [Kindelia](https://github.com/Kindelia/Kindelia): a peer-to-peer functional computer.
+- Cheap and fast → [HVM](https://github.com/kindelia/hvm): a funcional virtual machine.
+- Secure → [Kind](https://github.com/Kindelia/Kind): a formal verification programming language.
