@@ -8,3 +8,7 @@
 - Decentralized → [Kindelia](https://github.com/Kindelia/Kindelia): a decentralized functional computer.
 - Efficient → [HVM](https://github.com/kindelia/hvm): an optimal, parallel, funcional virtual machine.
 - Secure → [Kind](https://github.com/Kindelia/Kind): a formal verification programming language.
+
+### Join Us
+
+[![Kindelia Community Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Kindelia)
