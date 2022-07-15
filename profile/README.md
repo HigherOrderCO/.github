@@ -1,13 +1,12 @@
 # Welcome to [Kindelia](http://kindelia.org/)
 
+We build innovative functional programming technology. Check our projects:
 
-[Kindelia](http://kindelia.org/)
- is a global virtual machine powered by blockchain technology
- whose goal is to solve the  [Zooko's triangle trilemma](https://en.wikipedia.org/wiki/Zooko%27s_triangle): 
- 
-- Decentralized → [Kindelia](https://github.com/Kindelia/Kindelia): a decentralized functional computer.
-- Efficient → [HVM](https://github.com/kindelia/hvm): an optimal, parallel, funcional virtual machine.
-- Secure → [Kind](https://github.com/Kindelia/Kind): a formal verification programming language.
+- [HVM](https://github.com/kindelia/hvm): a functional virtual machine
+
+- [Kind2](https://github.com/kindelia/kind2): a fast proof language
+
+- [Kindelia](https://github.com/kindelia/kindelia): a peer-to-peer functional computer
 
 ### Join Us
 
