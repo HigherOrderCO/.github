@@ -13,3 +13,7 @@ We build innovative functional programming technology. Check our projects:
 ### Join Us
 
 [![Kindelia Community Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Kindelia)
+
+### Contact
+
+Reach me anytime at [taelin@kindelia.org](taelin@kindelia.org).
