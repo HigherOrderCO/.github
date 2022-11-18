@@ -16,4 +16,4 @@ We build innovative functional programming technology. Check our projects:
 
 ### Contact
 
-Reach me anytime at [taelin@kindelia.org](taelin@kindelia.org).
+Reach me anytime at <taelin@kindelia.org>.
