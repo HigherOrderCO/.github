@@ -1,6 +1,6 @@
 # Welcome to [Kindelia](http://kindelia.org/)
 
-We build innovative functional programming technology. Check our projects:
+We build innovative technology. Check our projects:
 
 - [HVM](https://github.com/kindelia/hvm): a functional virtual machine
 
