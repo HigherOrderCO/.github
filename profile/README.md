@@ -16,4 +16,4 @@ We build innovative technology. Check our projects:
 
 ### Contact
 
-Reach me anytime at <taelin@kindelia.org>.
+Reach the author anytime at <taelin@kindelia.org>.
