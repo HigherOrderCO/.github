@@ -6,7 +6,7 @@ the industry by finally making massive parallelism trivial. To prove our point, 
 [HVM](https://github.com/kindelia/hvm), a new runtime based on that model, and it already outperforms JavaScript's V8
 and Haskell's GHC in many cases. Now, we spend our time maintaining HVM, and exploring its applications.  Some of our
 works include [Kind](https://github.com/kindelia/kind), a new proof language, and
-[K-Chan](https://github.com/kindelia/kchan), a P2P computer. Our main goal is to keep developing software that makes us
+[K-Chan](https://github.com/kindelia/k-chan), a P2P computer. Our main goal is to keep developing software that makes us
 happy, and, at the same time, empower developers around the world. Check also our [manifesto](https://github.com/Kindelia/manifesto).
 
 
