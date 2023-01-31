@@ -1,18 +1,22 @@
-# Welcome to [Kindelia](http://kindelia.org/)
+# Welcome to [Higher Order CO](http://higherorderco.com/)
 
-We're Kindelia, a community passionate about technology and functional programming. We believe the [Interaction
-Net](https://tinyurl.com/interactioncombinators) is the most underrated model of computation, and that it will disrupt
-the industry by finally making massive parallelism trivial. To prove our point, we've developed
-[HVM](https://github.com/kindelia/hvm), a new runtime based on that model, and it already outperforms JavaScript's V8,
-Haskell's GHC, and even C in many cases. Now, we spend our time maintaining HVM, and exploring its applications. Some of our
-works include [Kind](https://github.com/kindelia/kind), a new proof language, and
-[Kindelia](https://github.com/kindelia/kindelia), a P2P computer. Our main goal is to keep developing software that makes us
-happy, and, at the same time, empower developers around the world. Check also our [manifesto](https://github.com/Kindelia/manifesto).
+We're the HOC, a tech startup with the goal of building the ineviable massively
+parallel future of computers. We believe the [Interaction
+Net](https://tinyurl.com/interactioncombinators) is a powerful model of
+computation that will give birth to massively parallel runtimes and processors.
+To pave the way, we built:
 
+- [HVM](https://github.com/HigherOrderCO/hvm): a parallel runtime
+
+- [Kind](https://github.com/HigherOrderCO/kind): an parallel proof language
+
+- [Kindelia](https://github.com/HigherOrderCo/kindelia): a parallel P2P computer
+
+Check also our [manifesto](https://github.com/HigherOrderCO/manifesto).
 
 ### Join Us
 
-[![Kindelia Community Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Kindelia)
+[![HOC Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Kindelia)
 
 ### Contact
 
