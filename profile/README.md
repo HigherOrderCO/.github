@@ -1,4 +1,4 @@
-# Welcome to [Higher Order CO](http://higherorderco.com/)
+# Welcome to [Higher Order Company](http://higherorderco.com/)
 
 We're the HOC, a tech startup with the goal of building the ineviable massively
 parallel future of computers. We believe the [Interaction
