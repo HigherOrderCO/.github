@@ -18,4 +18,4 @@ To pave the way forward, we built:
 
 ### Contact
 
-Reach the author anytime at <taelin@kindelia.org>.
+Reach the author anytime at <taelin@higherorderco.com>.
