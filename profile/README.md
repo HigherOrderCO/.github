@@ -8,9 +8,8 @@ To pave the way forward, we built:
 
 - [HVM](https://github.com/HigherOrderCO/hvm): a parallel runtime
 
-- [Kind](https://github.com/HigherOrderCO/kind): a parallel proof language
+- [Bend](https://github.com/HigherOrderCO/Bend): a parallel programming language
 
-- [Kindelia](https://github.com/HigherOrderCo/kindelia): a parallel P2P computer
 
 ### Join Us
 
