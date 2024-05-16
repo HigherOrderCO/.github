@@ -8,7 +8,7 @@ To pave the way forward, we built:
 
 - [HVM](https://github.com/HigherOrderCO/hvm): a parallel runtime
 
-- [Bend](https://github.com/HigherOrderCO/Bend): a parallel programming language
+- [Bend](https://github.com/HigherOrderCO/Bend): a parallel language
 
 
 ### Join Us
