@@ -17,4 +17,4 @@ To pave the way forward, we built:
 
 ### Contact
 
-Reach the author anytime at <taelin@higherorderco.com>.
+Reach us anytime at <contact@higherorderco.com>.
