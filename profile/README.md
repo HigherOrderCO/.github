@@ -13,7 +13,7 @@ To pave the way forward, we built:
 
 ### Join Us
 
-[![HOC Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/Kindelia)
+[![HOC Discord](https://img.shields.io/discord/912426566838013994.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.higherorderco.com)
 
 ### Contact
 
